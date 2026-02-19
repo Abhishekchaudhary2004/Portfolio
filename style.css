@@ -403,19 +403,3 @@
   ::-webkit-scrollbar {
       width: 0;
   }
-
-
-
-  .typing{
-    width: 100%;
-    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
-    animation:  changeText 4s;
-  }
-
-  .typing span::after{
-    content: "I am full ";
-  }
-
-  @keyframes cha {
-    
-  }
